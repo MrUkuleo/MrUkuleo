@@ -44,10 +44,5 @@
 ![JavaScript](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fedeyak&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedeyak)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
