@@ -10,39 +10,27 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 
-<!--<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=fedeyak&style=flat-square&color=red" alt=""/>
-</div> -->
-
 <h1 id="header" align="center">
-  Greetings!
+  Приветствую!
 </h1>
 
 <h3 id="header">
- I am a .NET, frontend and backend developer
+ Я - студент IT-колледжа, начинающий разработчик приложений и игр. Люблю экспериментировать с кодом, создавать игровые миры и полезные программы. Моя цель — совмещать технические навыки и креативность для разработки проектов, которые будут интересны и удобны пользователям.
 </h3>
 
-- Step by step, to reach perfection.
-- Clean code rules! Test Driven Development is awesome!
-- In my free time, I solve problems on CodeWars and Leetcode and read tech articles.
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Mr._Ukuleo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mr_ukuleo)
+<h4 id="header">Чем я занимаюсь:</h4>
+<li>Пишу кроссплатформенные приложения на .NET;</li>
+<li>Создаю Telegram-ботов на C# с использованием библиотеки Telegram.Bot</li>
+<li>Работаю с HTML, CSS, JavaScript и jQuery</li>
+<li>Разрабатываю дипломный проект — полноценную 2D-игру с сюжетом и геймплеем</li>
+
+<h4 id="header">Технологии и и инструменты:</h4>
+<li>Языки: C#, JavaScript, HTML, CSS, MySQL, SQL Server</li>
+<li>Фреймворки и движки: jQuery, Godot Engine 4, .NET MAUI</li>
+<li>Инструменты: Git, GitHub, Visual Studio, VS Code</li>
+
 ---
-<h3 class="heading-element" dir="auto">Main repositories</h3>
-<li><a href="https://github.com/fedeyak/projects">Projects</a></li>
-<li><a href="https://github.com/fedeyak/leet_code">LeetCode</a></li>
-<li><a href="https://github.com/fedeyak/education">Education</a></li>
 
-
-
-
-### :hammer_and_wrench: Languages and Tools:
-![.NET](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SQL Server](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![CSS](https://img.shields.io/badge/redis-grey.svg?style=for-the-badge&logo=redis&logoColor=white)
-![JavaScript](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
----
 
 
 
