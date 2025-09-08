@@ -13,7 +13,7 @@
 - Работаю с HTML, CSS, JavaScript и jQuery;
 - Разрабатываю дипломный проект — полноценную 2D-игру с сюжетом и геймплеем
 
-<h4 id="header">:hammer_and_wrench: Технологии и и инструменты:</h4>
+<h3 id="header">:hammer_and_wrench: Технологии и и инструменты:</h3>
 
 <h4>Языки:</h4>
 
@@ -36,3 +36,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-pink)
 ![VSCode](https://img.shields.io/badge/VS_Code-blue)
+
+<h3 id="header">Как со мной связаться:</h3>
+<a href="https://t.me/mr_ukuleo"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white"></a>
+
+![Static Badge](https://img.shields.io/badge/GMAIL-baronfontarkio%40gmail.com-darkgrey?logo=gmail)
+
