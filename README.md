@@ -12,7 +12,7 @@
 
 - Пишу кроссплатформенные приложения на .NET;
 - Создаю Telegram-ботов на C# с использованием библиотеки Telegram.Bot;
-- Работаю с HTML, CSS, JavaScript и jQuery;
+- Работаю с HTML, CSS, JavaScript и React;
 - Разрабатываю 2D-игры на Godot.
 
 <h3 id="header">:hammer_and_wrench: Технологии и и инструменты:</h3>
