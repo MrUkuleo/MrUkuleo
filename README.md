@@ -38,5 +38,6 @@ I combine technical skills and creativity to develop projects that will be inter
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/visual%20studio-violet?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge)
-![Rider](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider)
+![Static Badge](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider&logoColor=yellow)
+
 
