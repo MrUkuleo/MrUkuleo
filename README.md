@@ -38,12 +38,13 @@ I combine technical skills and creativity to develop projects that will be inter
   ![Godot](https://img.shields.io/badge/Godot%20Engine%204-blue?style=for-the-badge&logo=godotengine&labelColor=white)
   ![MAUI](https://img.shields.io/badge/MAUI-purple?style=for-the-badge&logo=dotnet)
   ![Avalonia](https://img.shields.io/badge/Avalonia-purple?style=for-the-badge&logo=dotnet)
+  ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
   
   <h4>Tools:</h4>
   
   ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
   ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-  ![Static Badge](https://img.shields.io/badge/visual%20studio-violet?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/visual%20studio-pink?style=for-the-badge)
   ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge)
   ![Static Badge](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider&logoColor=yellow)
 </div>
