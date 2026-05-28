@@ -5,7 +5,7 @@
 <h3 id="header" align="center">
 I am an application, game, and web services developer. 
   
-I combine technical skills and creativity to develop projects that will be interesting and user-friendly.
+I combine technical skills and creativity to develop projects that will be helpful and user-friendly.
 </h3>
 
 <br>
