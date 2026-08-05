@@ -33,11 +33,12 @@ I combine technical skills and creativity to develop projects that will be helpf
   ![Static Badge](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge)
   ![Static Badge](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge)
   <h4>Frameworks and engines:</h4>
-  
+
+  ![MAUI](https://img.shields.io/badge/MAUI-purple?style=for-the-badge&logo=dotnet)
+  ![WPF](https://img.shields.io/badge/WPF-purple?style=for-the-badge&logo=dotnet)
+  ![Avalonia](https://img.shields.io/badge/Avalonia-purple?style=for-the-badge&logo=dotnet)
   ![jQuery](https://img.shields.io/badge/jQuery-orange?style=for-the-badge&logo=jquery)
   ![Godot](https://img.shields.io/badge/Godot%20Engine%204-blue?style=for-the-badge&logo=godotengine&labelColor=white)
-  ![MAUI](https://img.shields.io/badge/MAUI-purple?style=for-the-badge&logo=dotnet)
-  ![Avalonia](https://img.shields.io/badge/Avalonia-purple?style=for-the-badge&logo=dotnet)
   ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
   
   <h4>Tools:</h4>
